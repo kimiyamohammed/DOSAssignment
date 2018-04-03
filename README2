@@ -1,0 +1,8 @@
+The user can request some basic information about a book 
+he/she is looking for by clicking the go button. But to make this assignment I added the Ajax request in
+a while loop so the server can't handle the request and DOS occur.
+
+I added 3 books on the JSON file. They are kind of searching keys. you can use one of them:-
+1.oromay
+2.sememen
+3.aliweledm
